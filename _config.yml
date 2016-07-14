@@ -1,13 +1,13 @@
 # Setup
 title:        Kellie Carlson
 tagline:      Candidate for BSE in Computer Science, University of Pennsylvania
-baseurl:      "/home"
+baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
   name:       Kellie Carlson
-  url:        https://github.com/carlsonkellie/home
+  url:        https://github.com/carlsonkellie
 
 # Gems
 gems:
