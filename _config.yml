@@ -1,12 +1,12 @@
 # Setup
 title:        Kellie Carlson
-tagline:      A responsive theme for your project on GitHub Pages
+tagline:      Computer Science Student
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
+  name:       Kellie Carlson
   url:        http://yourhomepage.com 
 
 # Gems
