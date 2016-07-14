@@ -1,11 +1,11 @@
 # Setup
 title:        Kellie Carlson
 tagline:      Computer Science Student
-baseurl:      ""
+baseurl:      "carlsonkellie.github.io"
 paginate:     1
 
 # About/contact
-author:
+author:       Kellie Carlson
   name:       Kellie Carlson
   url:        http://yourhomepage.com 
 
