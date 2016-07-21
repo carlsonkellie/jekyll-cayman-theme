@@ -1,1 +1,14 @@
+---
+layout: blog_home
+title: {{ site.name }}
+---
 
+<div id="home">
+  <h3>Here's some of my favorites!</h3>
+  <h1>Blog Posts</h1>
+  <ul class="favorite_posts">
+    {% for post in site.favorite_posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ favorite_post.url }}">{{ favorite_post.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
