@@ -6,8 +6,8 @@ title: {{ site.name }}
 <div id="home">
   <h3>Here's some of my favorites!</h3>
   <h1>Blog Posts</h1>
-  <ul class="favorite_posts">
-    {% for post in site.favorite_posts %}
+  <ul class="posts">
+    {% for post in site.posts %}
       <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
