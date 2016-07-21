@@ -1,6 +1,6 @@
 ---
 layout: blog_home
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my blog!"
 date:   2016-02-12 17:50:00
 categories: main
 ---
