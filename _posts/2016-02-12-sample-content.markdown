@@ -2,7 +2,7 @@
 layout: blog_home
 title:  "Welcome to my blog!"
 date:   2016-07-21 15:00:00
-categories: under_pressure/main
+categories: main
 ---
 This is my first blog post! Hooray!
 
