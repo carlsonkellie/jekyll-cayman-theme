@@ -92,17 +92,17 @@ a {
     .project-name {
       font-size: 1.75rem; } }
 
-.project-blog_name {
+.blog-name {
   margin-top: 0;
   margin-bottom: 0.1rem; }
   @media screen and (min-width: 64em) {
-    .project-blog_name {
+    .blog-name {
       font-size: 3.25rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
-    .project-blog_name {
+    .blog-name {
       font-size: 2.25rem; } }
   @media screen and (max-width: 42em) {
-    .project-blog_name {
+    .blog-name {
       font-size: 1.75rem; } }
 
 .project-tagline {
