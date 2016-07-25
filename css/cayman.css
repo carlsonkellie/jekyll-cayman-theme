@@ -98,7 +98,7 @@ a {
   font-family: 'Abril Fatface', Impact, cursive; }
   @media screen and (min-width: 64em) {
     .blog-name {
-      font-size: 3.25rem; } }
+      font-size: 1.25rem; } }
   @media screen and (min-width: 42em) and (max-width: 64em) {
     .blog-name {
       font-size: 2.25rem; } }
