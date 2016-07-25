@@ -94,7 +94,7 @@ a {
 
 .blog-name {
   margin-top: 0;
-  margin-bottom: 0.1rem; 
+  margin-bottom: 0; 
   font-family: 'Abril Fatface', Impact, cursive; }
   @media screen and (min-width: 64em) {
     .blog-name {
