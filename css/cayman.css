@@ -95,7 +95,7 @@ a {
 .blog-name {
   margin-top: 0;
   margin-bottom: 0.1rem; 
-  font-family: Impact, Geneva, Helvetica, sans-serif; }
+  font-family: Abril Fatface, Helvetica, Impact, Geneva, sans-serif; }
   @media screen and (min-width: 64em) {
     .blog-name {
       font-size: 3.25rem; } }
