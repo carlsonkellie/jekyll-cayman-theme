@@ -7,12 +7,9 @@ categories: main
 Servings: 4 (with plenty of leftovers!)
 
 Ingredients:
--   Red
--   Green
--   Blue
--6 boneless skinless chicken thighs, diced into large pieces
--Salt
--Coarsly ground black pepper
+-   6 boneless skinless chicken thighs, diced into large pieces
+-   Salt
+- Coarsly ground black pepper
 -4 tablespoons unsalted butter
 -1 tablespoon extra virgin olive oil
 -1 onion, diced
