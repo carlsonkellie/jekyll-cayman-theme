@@ -4,6 +4,7 @@ title:  "Welcome to my blog!"
 date:   2016-07-22 17:50:00
 categories: main
 image: blog-images/Blog Test Image 1.jpg
+description: first blog post, that's so exciting, hurrah!
 ---
 This is my first blog post! Hooray!
 
