@@ -101,8 +101,7 @@ figure {
 
 .blog-name {
   margin-top: 0;
-  margin-bottom: 0; 
-  font-family: 'Abril Fatface', Impact, cursive; }
+  margin-bottom: 0;  }
   @media screen and (min-width: 64em) {
     .blog-name {
       font-size: 3.25rem; } }
