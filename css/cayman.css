@@ -296,7 +296,8 @@ figure {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #303030; }
+    color: #303030;
+    font-family: 'Raleway', sans-serif;}
   .blog-content h2,
   .blog-content h3,
   .blog-content h4,
