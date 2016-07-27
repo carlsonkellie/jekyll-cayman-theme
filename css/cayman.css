@@ -510,7 +510,8 @@ figure {
       content: normal; }
   .post-content ul,
   .post-content ol {
-    margin-top: 0; }
+    margin-top: 0; 
+    font-size:18px; }
   .post-content blockquote {
     padding: 0 1rem;
     margin-left: 0;
