@@ -371,8 +371,7 @@ figure {
   .blog-content li img {
     float: left;
     margin: 0 15px 0 0; }
-  .blog-content li p {
-  font: 200 12px/1.5 Georgia, Times New Roman, serif; }
+  .blog-content li p { }
   .blog-content li {
     padding: 10px;
     overflow: auto; }
