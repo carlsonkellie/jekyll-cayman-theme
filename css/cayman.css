@@ -365,7 +365,20 @@ figure {
       content: normal; }
   .blog-content ul,
   .blog-content ol {
-    margin-top: 0; }
+    margin-top: 0;
+    list-style-type: none;
+    width: 500px; }
+  .blog-content li img {
+    float: left;
+    margin: 0 15px 0 0; }
+  .blog-content li p {
+  font: 200 12px/1.5 Georgia, Times New Roman, serif; }
+  .blog-content li {
+    padding: 10px;
+    overflow: auto; }
+  .blog-content li:hover {
+    background: #eee;
+    cursor: pointer; }
   .blog-content blockquote {
     padding: 0 1rem;
     margin-left: 0;
