@@ -99,6 +99,20 @@ figure {
     .project-tagline {
       font-size: 1rem; } }
 
+.project-tagline2 {
+  margin-bottom: 2rem;
+  font-weight: normal;
+  opacity: 0.7; }
+  @media screen and (min-width: 64em) {
+    .project-tagline2 {
+      font-size: 1.25rem; } }
+  @media screen and (min-width: 42em) and (max-width: 64em) {
+    .project-tagline2 {
+      font-size: 1.15rem; } }
+  @media screen and (max-width: 42em) {
+    .project-tagline2 {
+      font-size: 1rem; } }
+
 .main-content {
   word-wrap: break-word; }
   .main-content :first-child {
